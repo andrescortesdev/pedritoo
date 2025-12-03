@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+section{
+    background-color: aquamarine;
+}
+section nav ul li{
+    display: inline-block;
+    padding: 10px;
+    cursor: pointer;
+}
+section nav ul li:hover{
+    background-color: aliceblue;
+    color: aqua;
+}
+section nav ul{
+    text-align: center;
+}
